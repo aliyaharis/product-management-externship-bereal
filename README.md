@@ -34,7 +34,7 @@ I analyzed BeReal's existing user journey and synthesized user feedback to ident
 
 [View Product Teardown](research/bereal-product-teardown.pdf)  
 [View User Journey Map](research/bereal-user-journey-map.pdf)  
-[View Business Snapshot](research/bereal-business-snapshot.pdf)
+[View Business Snapshot](research/bereal-business-snapshot.pdf)  
 [View User Sentiment Analysis](research/bereal-user-sentiment-analysis.pdf)
 
 ---
