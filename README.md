@@ -32,10 +32,10 @@ I analyzed BeReal's existing user journey and synthesized user feedback to ident
 - The recurring daily posting routine can become repetitive.
 - Users have limited friend-driven reasons to create additional BeReals outside the daily routine.
 
-[View Product Teardown](research/Product-Feature-Comparision-Table.pdf)  
+[View Product Teardown](research/bereal-product-teardown.pdf)  
 [View User Journey Map](research/user-journey-map.pdf)  
 [View Business Snapshot](research/bereal-business-snapshot.pdf)
-[View User Sentiment Analysis](user/sentiment-analysis.pdf)
+[View User Sentiment Analysis](research/bereal-user-sentiment-analysis.pdf)
 
 ---
 
@@ -45,7 +45,7 @@ I compared BeReal with products including Instagram and Locket to understand dif
 
 The goal was not to replicate larger social platforms, but to identify opportunities that could strengthen BeReal's existing friend-centric experience.
 
-[View Competitive Analysis](research/competitive-analysis.pdf)
+[View Competitive Analysis](competitive-analysis/product-feature-comparision-table.pdf)
 
 ---
 
@@ -63,8 +63,8 @@ Concepts were evaluated using **RICE**, user value, product fit, feasibility, MA
 
 **Selected concept: Friend Prompt**
 
-[View Feature Exploration](ideation/feature-ideas.pdf)  
-[View RICE Prioritization](ideation/rice-prioritization.pdf)
+[View Feature Exploration](ideation/feature-idea-table.pdf)  
+[View RICE Prioritization](ideation/RICE-scoring-table.pdf)
 
 ---
 
@@ -97,7 +97,7 @@ Friend Prompt can create personal, friend-driven reasons to open and post on BeR
 
 I developed a PRD-lite covering the problem, target user, MAU hypothesis, user stories, acceptance criteria, assumptions, non-goals, edge cases, guardrails, and success metrics.
 
-[View PRD-lite](product-definition/prd-lite.pdf)
+[View PRD-lite](product-definition/friend-prompt-PRD-lite.pdf)
 
 ---
 
@@ -109,7 +109,7 @@ The prototype covers:
 
 **Create Prompt → Select Friends → Send → Receive Prompt → Respond → View Responses**
 
-[View User Flows](user-flows/)  
+[View User Flows](user-flow-&-prototype/friend-prompt-user-flow.jpg)  
 [View Prototype](prototype/)
 
 ---
