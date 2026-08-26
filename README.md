@@ -32,7 +32,7 @@ I analyzed BeReal's existing user journey and synthesized user feedback to ident
 - The recurring daily posting routine can become repetitive.
 - Users have limited friend-driven reasons to create additional BeReals outside the daily routine.
 
-[View Product Teardown](research/product-teardown.pdf)  
+[View Product Teardown](research/Product-Feature-Comparision-Table.pdf)  
 [View User Journey Map](research/user-journey-map.pdf)  
 [View Business Snapshot](research/bereal-business-snapshot.pdf)
 [View User Sentiment Analysis](user/sentiment-analysis.pdf)
