@@ -110,7 +110,6 @@ The prototype covers:
 **Create Prompt → Select Friends → Send → Receive Prompt → Respond → View Responses**
 
 [View User Flows](user-flow-and-prototype/friend-prompt-user-flow.jpg)  
-[View Prototype](prototype/)
 
 ---
 
